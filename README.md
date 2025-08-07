@@ -7,7 +7,13 @@ It combines:
 - An **interactive Power BI dashboard** to visualize insights and support strategic decision-making
 
 ---
-### 📸 Sample Dashboard View
+### 📸 Sample Dashboard Views
+
+#### 🧾 Page 1: Global Sales Overview
+![Dashboard Page 1](./bis_sheet1.png)
+
+#### 🛒 Page 2: Reseller vs Internet Channel Analysis
+![Dashboard Page 2](./bis_sheet2.png)
 
 
 ## 🎯 Project Objective
@@ -44,7 +50,7 @@ To support business strategy by:
 - Page 1: Global Sales Overview
 - Page 2: Reseller vs Internet Channel Comparison
 - Visuals: Trend lines, KPI cards, maps, filters
-- 
+  
 ---
 
 ## 🧠 Insights Highlighted
